@@ -1,9 +1,13 @@
 @import "../../../assets/styles/variables.scss";
 
 .mat-toolbar{
-    background-color: $black;
+    background-color: rgb(41, 145, 230);
 }
 
 img:hover{
     cursor:pointer;
+}
+
+.logo{
+    text-align: center;
 }

@@ -3,4 +3,12 @@
 @import "./assets/styles/variables.scss";
 
 html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-color:$black; }
+body { 
+    margin: 0; 
+    font-family: Roboto, "Helvetica Neue", sans-serif; 
+    //background-color:$black; 
+    background-image: url('https://cutewallpaper.org/21/pokemon-landscape-wallpaper/Pokemon-The-First-Movie-HD-Wallpaper-Background-Image-.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
